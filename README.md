@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF334B&center=true&vCenter=true&width=500&lines=Hey+there%2C+I'm+Koryn;UI%2FUX+Designer+%26+Developer;Creator+of+BloxSupply;Building+High-Performance+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF334B&center=true&vCenter=true&width=500&lines=Hey+there%2C+I'm+TopLua;UI%2FUX+Designer+%26+Developer;Creator+of+BloxSupply;Building+High-Performance+Systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,20 +14,20 @@
 
 ---
 
-### <img src="https://api.iconify.design/lucide:user.svg?color=%23FF334B" width="20" height="20" valign="middle" /> About Me
+### 👤 About Me
 
 > **Minimalist designer and versatile developer.**  
 > I build modular code architectures, tight player controls, smooth UI workflows, and modern web platforms.
 
-* <img src="https://api.iconify.design/lucide:wrench.svg?color=%23FF334B" width="16" height="16" valign="middle" /> **Specialties:** Luau Game Systems, Dynamic Web Apps, Discord Automation, UI/UX Engineering
-* <img src="https://api.iconify.design/lucide:briefcase.svg?color=%23FF334B" width="16" height="16" valign="middle" /> **Owner & Lead Developer:** **BloxSupply** — Publishing templates, frameworks, and ready-to-use Roblox systems.
-* <img src="https://api.iconify.design/lucide:target.svg?color=%23FF334B" width="16" height="16" valign="middle" /> **Focus:** High-performance code, clean visual design, and user-centric software architecture.
-* <img src="https://api.iconify.design/lucide:zap.svg?color=%23FF334B" width="16" height="16" valign="middle" /> **Workflow:** Component-driven design, modular state management, and optimized client-server networking.
-* <img src="https://api.iconify.design/lucide:palette.svg?color=%23FF334B" width="16" height="16" valign="middle" /> **Design Philosophy:** Sleek visual aesthetics, intuitive UI layouts, and uncompromising speed.
+* 🔧 **Specialties:** Luau Game Systems, Dynamic Web Apps, Discord Automation, UI/UX Engineering
+* 💼 **Owner & Lead Developer:** **BloxSupply** — Publishing templates, frameworks, and ready-to-use Roblox systems.
+* 🎯 **Focus:** High-performance code, clean visual design, and user-centric software architecture.
+* ⚡ **Workflow:** Component-driven design, modular state management, and optimized client-server networking.
+* 🎨 **Design Philosophy:** Sleek visual aesthetics, intuitive UI layouts, and uncompromising speed.
 
 ---
 
-### <img src="https://api.iconify.design/lucide:folder-git-2.svg?color=%23FF334B" width="20" height="20" valign="middle" /> Featured Projects & Repositories
+### 📂 Featured Projects & Repositories
 
 | Project / Repository | Tech Stack | Highlights & Overview |
 | :--- | :--- | :--- |
@@ -41,16 +41,16 @@
 
 ---
 
-### <img src="https://api.iconify.design/lucide:layers.svg?color=%23FF334B" width="20" height="20" valign="middle" /> Core Capabilities & Standards
+### 🧱 Core Capabilities & Standards
 
-* <img src="https://api.iconify.design/lucide:cpu.svg?color=%23FF334B" width="16" height="16" valign="middle" /> **Modular Systems Architecture:** Engineering decoupled scripts, reusable modules, and clean event pipelines.
-* <img src="https://api.iconify.design/lucide:layout.svg?color=%23FF334B" width="16" height="16" valign="middle" /> **Modern UI/UX Engineering:** Designing responsive layouts, clean navigation, dynamic dark themes, and smooth interactions.
-* <img src="https://api.iconify.design/lucide:database.svg?color=%23FF334B" width="16" height="16" valign="middle" /> **Data & State Management:** Implementing reliable persistence schemas, secure API integrations, and atomic state updates.
-* <img src="https://api.iconify.design/lucide:activity.svg?color=%23FF334B" width="16" height="16" valign="middle" /> **Performance Optimization:** Reducing resource overhead, optimizing networking packets, and writing lightweight execution loops.
+* 💻 **Modular Systems Architecture:** Engineering decoupled scripts, reusable modules, and clean event pipelines.
+* 📐 **Modern UI/UX Engineering:** Designing responsive layouts, clean navigation, dynamic dark themes, and smooth interactions.
+* 🗄️ **Data & State Management:** Implementing reliable persistence schemas, secure API integrations, and atomic state updates.
+* 📈 **Performance Optimization:** Reducing resource overhead, optimizing networking packets, and writing lightweight execution loops.
 
 ---
 
-### <img src="https://api.iconify.design/lucide:code-2.svg?color=%23FF334B" width="20" height="20" valign="middle" /> Tech Stack & Toolkit
+### 🛠️ Tech Stack & Toolkit
 
 <p align="left">
   <img src="https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=lua&logoColor=white" alt="Luau" />
@@ -68,7 +68,7 @@
 
 ---
 
-### <img src="https://api.iconify.design/lucide:heart.svg?color=%23FF334B" width="20" height="20" valign="middle" /> Hobbies & Interests
+### ❤️ Hobbies & Interests
 
 <p align="left">
   <img src="https://img.shields.io/badge/Programming-000000?style=for-the-badge&logo=codeforces&logoColor=white" alt="Programming" />
@@ -79,7 +79,7 @@
 
 ---
 
-### <img src="https://api.iconify.design/lucide:mail.svg?color=%23FF334B" width="20" height="20" valign="middle" /> Contact & Connect
+### ✉️ Contact & Connect
 
 Got a project idea, business inquiry, or want to collaborate? Reach out through any of the platforms below:
 
