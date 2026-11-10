@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://x.com/bloxsupply"><img src="https://img.shields.io/badge/X%2FTwitter-@bloxsupply-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://github.com/RealKoryn"><img src="https://img.shields.io/badge/GitHub-RealKoryn-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/TopLuau"><img src="https://img.shields.io/badge/GitHub-TopLuau-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://discord.gg/ey5GvWX9M7"><img src="https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 
