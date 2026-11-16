@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:11111b,50:313244,100:89b4fa&height=260&section=header&text=TOPLUAU&fontSize=82&fontColor=cdd6f4&fontAlignY=42&desc=Lead%20Developer%20%C2%B7%20Bloxsupply%20%C2%B7%20Lingucounter&descSize=20&descAlignY=66&descColor=a6adc8&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:11111b,50:313244,100:89b4fa&height=260&section=header&text=TOPLUAU&fontSize=82&fontColor=cdd6f4&fontAlignY=42&desc=Founder%20%C2%B7%20Lead%20Developer&descSize=20&descAlignY=66&descColor=a6adc8&animation=twinkling" width="100%" />
 
 <a href="https://github.com/TopLuau">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=800&color=89B4FA&center=true&vCenter=true&width=640&height=48&lines=%3E+building+Bloxsupply;%3E+building+Lingucounter;%3E+writing+C%2B%2B+and+Rust;%3E+shipping+JavaScript;%3E+running+Linux" alt="typing" />
@@ -25,7 +25,7 @@
 
 ## <img src="https://api.iconify.design/lucide/user.svg?color=%2389b4fa" height="24" /> About
 
-I'm the founder and lead developer of **Bloxsupply** and **Lingucounter**, and I also make games like **The Last Noodle** and tools like **Ember IDE**, a code editor I wrote in Rust. I build the whole thing: the systems code in C++ and Rust, the web layer in JavaScript, and the infrastructure underneath. Everything runs on Linux.
+I'm the founder and lead developer of **Bloxsupply**, **Lingucounter** and **Gavanor**, and I also make games like **The Last Noodle** and open-source tools like **Ember IDE**, a code editor I wrote in Rust. I build the whole thing: the systems code in C++ and Rust, the web layer in JavaScript, and the infrastructure underneath. Everything runs on Linux.
 
 <br>
 
@@ -33,25 +33,18 @@ I'm the founder and lead developer of **Bloxsupply** and **Lingucounter**, and I
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 #### <img src="https://api.iconify.design/lucide/package.svg?color=%2389b4fa" height="20" /> [Bloxsupply](https://bloxsupply.net)
 
 Founder and lead dev. Backend, infrastructure, web app and deploys.
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 #### <img src="https://api.iconify.design/lucide/languages.svg?color=%23cba6f7" height="20" /> [Lingucounter](https://lingucounter.com)
 
 Founder and lead dev. Product, code and roadmap.
-
-</td>
-<td width="33%" valign="top">
-
-#### <img src="https://api.iconify.design/lucide/gamepad-2.svg?color=%23a6e3a1" height="20" /> [The Last Noodle](https://thelastnoodle.vercel.app/)
-
-A multiplayer game. Developer and creator.
 
 </td>
 </tr>
@@ -66,9 +59,32 @@ A multiplayer game. Developer and creator.
 <a href="https://lingucounter.com"><img src="https://img.shields.io/badge/visit-lingucounter.com-cba6f7?style=flat-square&labelColor=11111b" /></a>
 
 </td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### <img src="https://api.iconify.design/lucide/gamepad-2.svg?color=%23a6e3a1" height="20" /> [The Last Noodle](https://thelastnoodle.vercel.app/)
+
+A multiplayer game. Developer and creator.
+
+</td>
+<td width="50%" valign="top">
+
+#### <img src="https://api.iconify.design/lucide/store.svg?color=%23f9e2af" height="20" /> [Gavanor](https://gavanor.vercel.app/)
+
+Founder and lead dev. Designs free concept websites for local businesses to preview before they pay.
+
+</td>
+</tr>
+<tr>
 <td valign="bottom">
 
 <a href="https://thelastnoodle.vercel.app/"><img src="https://img.shields.io/badge/play-thelastnoodle.vercel.app-a6e3a1?style=flat-square&labelColor=11111b" /></a>
+
+</td>
+<td valign="bottom">
+
+<a href="https://gavanor.vercel.app/"><img src="https://img.shields.io/badge/visit-gavanor.vercel.app-f9e2af?style=flat-square&labelColor=11111b" /></a>
 
 </td>
 </tr>
@@ -108,6 +124,7 @@ Open-source Roblox loading screen with smooth animations, blur effects, and easy
 
 <img src="https://img.shields.io/badge/Rust-fab387?style=flat-square&labelColor=11111b&logo=rust&logoColor=fab387" />
 <img src="https://img.shields.io/badge/code%20editor-89b4fa?style=flat-square&labelColor=11111b" />
+<img src="https://img.shields.io/badge/open%20source-a6e3a1?style=flat-square&labelColor=11111b" />
 
 </td>
 <td valign="bottom">
