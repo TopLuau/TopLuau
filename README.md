@@ -25,7 +25,7 @@
 
 ## <img src="https://api.iconify.design/lucide/user.svg?color=%2389b4fa" height="24" /> About
 
-I'm the founder and lead developer of **Bloxsupply** and **Lingucounter**, and I also make games like **The Last Noodle**. I build the whole thing: the systems code in C++ and Rust, the web layer in JavaScript, and the infrastructure underneath. Everything runs on Linux.
+I'm the founder and lead developer of **Bloxsupply** and **Lingucounter**, and I also make games like **The Last Noodle** and tools like **Ember IDE**, a code editor I wrote in Rust. I build the whole thing: the systems code in C++ and Rust, the web layer in JavaScript, and the infrastructure underneath. Everything runs on Linux.
 
 <br>
 
@@ -39,16 +39,12 @@ I'm the founder and lead developer of **Bloxsupply** and **Lingucounter**, and I
 
 Founder and lead dev. Backend, infrastructure, web app and deploys.
 
-<a href="https://bloxsupply.net"><img src="https://img.shields.io/badge/visit-bloxsupply.net-89b4fa?style=flat-square&labelColor=11111b" /></a>
-
 </td>
 <td width="33%" valign="top">
 
 #### <img src="https://api.iconify.design/lucide/languages.svg?color=%23cba6f7" height="20" /> [Lingucounter](https://lingucounter.com)
 
 Founder and lead dev. Product, code and roadmap.
-
-<a href="https://lingucounter.com"><img src="https://img.shields.io/badge/visit-lingucounter.com-cba6f7?style=flat-square&labelColor=11111b" /></a>
 
 </td>
 <td width="33%" valign="top">
@@ -57,7 +53,22 @@ Founder and lead dev. Product, code and roadmap.
 
 A multiplayer game. Developer and creator.
 
-<a href="https://thelastnoodle.vercel.app/"><img src="https://img.shields.io/badge/play-thelastnoodle-a6e3a1?style=flat-square&labelColor=11111b" /></a>
+</td>
+</tr>
+<tr>
+<td valign="bottom">
+
+<a href="https://bloxsupply.net"><img src="https://img.shields.io/badge/visit-bloxsupply.net-89b4fa?style=flat-square&labelColor=11111b" /></a>
+
+</td>
+<td valign="bottom">
+
+<a href="https://lingucounter.com"><img src="https://img.shields.io/badge/visit-lingucounter.com-cba6f7?style=flat-square&labelColor=11111b" /></a>
+
+</td>
+<td valign="bottom">
+
+<a href="https://thelastnoodle.vercel.app/"><img src="https://img.shields.io/badge/play-thelastnoodle.vercel.app-a6e3a1?style=flat-square&labelColor=11111b" /></a>
 
 </td>
 </tr>
@@ -79,10 +90,27 @@ A multiplayer game. Developer and creator.
 
 <table>
 <tr>
-<td valign="top">
+<td width="50%" valign="top">
+
+#### <img src="https://api.iconify.design/lucide/flame.svg?color=%23fab387" height="18" /> [Ember IDE](https://github.com/TopLuau/ember-ide)
+A fast, themeable, cross-platform code editor written in Rust. GPU-rendered UI, real terminal, debugger, plugins and 12 built-in themes. No Electron.
+
+</td>
+<td width="50%" valign="top">
 
 #### <img src="https://api.iconify.design/lucide/folder-git-2.svg?color=%2389b4fa" height="18" /> [CoreLoader](https://github.com/TopLuau/CoreLoader)
 Open-source Roblox loading screen with smooth animations, blur effects, and easy customization.
+
+</td>
+</tr>
+<tr>
+<td valign="bottom">
+
+<img src="https://img.shields.io/badge/Rust-fab387?style=flat-square&labelColor=11111b&logo=rust&logoColor=fab387" />
+<img src="https://img.shields.io/badge/code%20editor-89b4fa?style=flat-square&labelColor=11111b" />
+
+</td>
+<td valign="bottom">
 
 <img src="https://img.shields.io/badge/Roblox-89b4fa?style=flat-square&labelColor=11111b&logo=roblox&logoColor=89b4fa" />
 <img src="https://img.shields.io/badge/open%20source-a6e3a1?style=flat-square&labelColor=11111b" />
