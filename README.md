@@ -66,33 +66,48 @@ Founder and lead dev. Product, code and roadmap.
 
 <br>
 
-## <img src="https://api.iconify.design/lucide/pin.svg?color=%2389b4fa" height="24" /> Pinned
+## <img src="https://api.iconify.design/lucide/pin.svg?color=%2389b4fa" height="24" /> Repositories
 
-<!-- Change REPO_1..REPO_4 to your real repo names. -->
+<!-- Edit the name, description and language of each card. Also pin your best repos in your GitHub profile settings. -->
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/Topluau/REPO_1"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Topluau&repo=REPO_1&theme=catppuccin_mocha&hide_border=true&bg_color=11111b" /></a>
-<a href="https://github.com/Topluau/REPO_2"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Topluau&repo=REPO_2&theme=catppuccin_mocha&hide_border=true&bg_color=11111b" /></a>
-<a href="https://github.com/Topluau/REPO_3"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Topluau&repo=REPO_3&theme=catppuccin_mocha&hide_border=true&bg_color=11111b" /></a>
-<a href="https://github.com/Topluau/REPO_4"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Topluau&repo=REPO_4&theme=catppuccin_mocha&hide_border=true&bg_color=11111b" /></a>
+#### <img src="https://api.iconify.design/lucide/folder-git-2.svg?color=%2389b4fa" height="18" /> [repo-one](https://github.com/Topluau/repo-one)
+One line on what this project does.
 
-</div>
+<img src="https://img.shields.io/badge/Rust-89b4fa?style=flat-square&labelColor=11111b&logo=rust&logoColor=89b4fa" />
 
-<br>
+</td>
+<td width="50%" valign="top">
 
-## <img src="https://api.iconify.design/lucide/chart-no-axes-column.svg?color=%2389b4fa" height="24" /> Stats
+#### <img src="https://api.iconify.design/lucide/folder-git-2.svg?color=%2389b4fa" height="18" /> [repo-two](https://github.com/Topluau/repo-two)
+One line on what this project does.
 
-<div align="center">
+<img src="https://img.shields.io/badge/C++-cba6f7?style=flat-square&labelColor=11111b&logo=cplusplus&logoColor=cba6f7" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Topluau&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=11111b&count_private=true&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Topluau&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=11111b&langs_count=8" />
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Topluau&theme=catppuccin-mocha&hide_border=true&background=11111b" />
+#### <img src="https://api.iconify.design/lucide/folder-git-2.svg?color=%2389b4fa" height="18" /> [repo-three](https://github.com/Topluau/repo-three)
+One line on what this project does.
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Topluau&theme=tokyo-night&bg_color=11111b&hide_border=true&area=true&color=89b4fa&line=cba6f7&point=f9e2af" width="100%" />
+<img src="https://img.shields.io/badge/JavaScript-f9e2af?style=flat-square&labelColor=11111b&logo=javascript&logoColor=f9e2af" />
 
-</div>
+</td>
+<td width="50%" valign="top">
+
+#### <img src="https://api.iconify.design/lucide/folder-git-2.svg?color=%2389b4fa" height="18" /> [repo-four](https://github.com/Topluau/repo-four)
+One line on what this project does.
+
+<img src="https://img.shields.io/badge/Rust-89b4fa?style=flat-square&labelColor=11111b&logo=rust&logoColor=89b4fa" />
+
+</td>
+</tr>
+</table>
 
 <br>
 
