@@ -33,7 +33,7 @@
 | :--- | :--- | :--- |
 | **TungChess** | `TypeScript` `Socket.io` `Stockfish` | Full-stack web chess app with real-time multiplayer, Stockfish engine evaluation, and Elo rating calculations. |
 | **VRS S2 UCL Hub** | `Python` `Discord.py` | League management web hub and integrated Discord bot handling player contracts, transfers, and match schedules. |
-| **KamLabs E-Commerce** | `Node.js` `Express` `Stripe` | Custom web storefront and integrated ticket management system for digital asset ordering and support workflows. |
+| **KamLabs E-Commerce** | `Node.js` `Express` | Custom web storefront and integrated ticket management system for digital asset ordering and support workflows. |
 | **Apex Analytics Hub** | `React` `TypeScript` `Tailwind` | High-performance web dashboard engineered for tracking player statistics, live match leaderboards, and game telemetry. |
 | **NodeScript Studio** | `Luau` `Node System` `Roblox` | Visual node-based scripting plugin for Roblox Studio built to streamline complex interface logic and event compilation. |
 | **VRS League Bot** | `Python` `Discord.py` `SQLite` | Automated server management bot featuring slash commands, match creation workflows, team rosters, and automated logging. |
@@ -57,7 +57,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io" />
-  <img src="https://img.shields.io/badge/Stripe-6772E5?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
 </p>
 
 <p align="left">
