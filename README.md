@@ -25,7 +25,7 @@
 
 ## <img src="https://api.iconify.design/lucide/user.svg?color=%2389b4fa" height="24" /> About
 
-I'm the founder and lead developer of **Bloxsupply**, **Lingucounter** and **Gavanor**, and I also make games like **The Last Noodle** and open-source tools like **Ember IDE**, a code editor I wrote in Rust.
+I'm the founder and lead developer of **Bloxsupply**, **Lingucounter** and **Gavanor**, and I also make games like **The Last Noodle** and open-source Rust projects like **Ember IDE**, a code editor, and **Scrawl**, a collaborative whiteboard. I build the whole thing: the systems code in C++ and Rust, the web layer in JavaScript, and the infrastructure underneath. Everything runs on Linux.
 
 <br>
 
@@ -106,13 +106,19 @@ Founder and lead dev. Designs free concept websites for local businesses to prev
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 #### <img src="https://api.iconify.design/lucide/flame.svg?color=%23fab387" height="18" /> [Ember IDE](https://github.com/TopLuau/ember-ide)
 A fast, themeable, cross-platform code editor written in Rust. GPU-rendered UI, real terminal, debugger, plugins and 12 built-in themes. No Electron.
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
+
+#### <img src="https://api.iconify.design/lucide/pencil-line.svg?color=%23cba6f7" height="18" /> [Scrawl](https://github.com/TopLuau/scrawl)
+A real-time collaborative whiteboard, written in Rust.
+
+</td>
+<td width="33%" valign="top">
 
 #### <img src="https://api.iconify.design/lucide/folder-git-2.svg?color=%2389b4fa" height="18" /> [CoreLoader](https://github.com/TopLuau/CoreLoader)
 Open-source Roblox loading screen with smooth animations, blur effects, and easy customization.
@@ -125,6 +131,12 @@ Open-source Roblox loading screen with smooth animations, blur effects, and easy
 <img src="https://img.shields.io/badge/Rust-fab387?style=flat-square&labelColor=11111b&logo=rust&logoColor=fab387" />
 <img src="https://img.shields.io/badge/code%20editor-89b4fa?style=flat-square&labelColor=11111b" />
 <img src="https://img.shields.io/badge/open%20source-a6e3a1?style=flat-square&labelColor=11111b" />
+
+</td>
+<td valign="bottom">
+
+<img src="https://img.shields.io/badge/Rust-fab387?style=flat-square&labelColor=11111b&logo=rust&logoColor=fab387" />
+<img src="https://img.shields.io/badge/real--time-cba6f7?style=flat-square&labelColor=11111b" />
 
 </td>
 <td valign="bottom">
