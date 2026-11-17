@@ -137,6 +137,7 @@ Open-source Roblox loading screen with smooth animations, blur effects, and easy
 
 <img src="https://img.shields.io/badge/Rust-fab387?style=flat-square&labelColor=11111b&logo=rust&logoColor=fab387" />
 <img src="https://img.shields.io/badge/real--time-cba6f7?style=flat-square&labelColor=11111b" />
+<img src="https://img.shields.io/badge/open%20source-a6e3a1?style=flat-square&labelColor=11111b" />
 
 </td>
 <td valign="bottom">
