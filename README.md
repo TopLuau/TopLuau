@@ -25,7 +25,7 @@
 
 ## <img src="https://api.iconify.design/lucide/user.svg?color=%2389b4fa" height="24" /> About
 
-I'm the founder and lead developer of **Bloxsupply**, **Lingucounter** and **Gavanor**, and I also make games like **The Last Noodle** and open-source tools like **Ember IDE**, a code editor I wrote in Rust. I build the whole thing: the systems code in C++ and Rust, the web layer in JavaScript, and the infrastructure underneath. Everything runs on Linux.
+I'm the founder and lead developer of **Bloxsupply**, **Lingucounter** and **Gavanor**, and I also make games like **The Last Noodle** and open-source tools like **Ember IDE**, a code editor I wrote in Rust.
 
 <br>
 
