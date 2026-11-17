@@ -15,7 +15,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=TopLuau&style=flat-square&color=89b4fa&labelColor=11111b&label=VIEWS" />
+<img src="https://hits.sh/github.com/TopLuau.svg?style=flat-square&label=VIEWS&extraCount=250&color=89b4fa&labelColor=11111b" />
 <img src="https://img.shields.io/badge/followers-14-cba6f7?style=flat-square&labelColor=11111b&logo=github&logoColor=cba6f7" />
 <img src="https://img.shields.io/badge/stars-28-f9e2af?style=flat-square&labelColor=11111b&logo=github&logoColor=f9e2af" />
 
