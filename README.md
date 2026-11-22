@@ -3,13 +3,14 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:11111b,50:313244,100:89b4fa&height=260&section=header&text=TOPLUAU&fontSize=82&fontColor=cdd6f4&fontAlignY=42&desc=Founder%20%C2%B7%20Lead%20Developer&descSize=20&descAlignY=66&descColor=a6adc8&animation=twinkling" width="100%" />
 
 <a href="https://github.com/TopLuau">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=800&color=89B4FA&center=true&vCenter=true&width=640&height=48&lines=%3E+building+Bloxsupply;%3E+building+Lingucounter;%3E+writing+C%2B%2B+and+Rust;%3E+shipping+JavaScript;%3E+running+Linux" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=800&color=89B4FA&center=true&vCenter=true&width=640&height=48&lines=%3E+building+Bloxsupply;%3E+building+Lingucounter;%3E+building+4Everything;%3E+writing+C%2B%2B+and+Rust;%3E+shipping+JavaScript;%3E+running+Linux" alt="typing" />
 </a>
 
 <br>
 
 <a href="https://bloxsupply.net"><img src="https://img.shields.io/badge/bloxsupply.net-89b4fa?style=for-the-badge&labelColor=11111b&logo=roblox&logoColor=89b4fa" /></a>
 <a href="https://lingucounter.com"><img src="https://img.shields.io/badge/lingucounter.com-cba6f7?style=for-the-badge&labelColor=11111b&logo=googletranslate&logoColor=cba6f7" /></a>
+<a href="https://www.4everything.store/"><img src="https://img.shields.io/badge/4everything.store-fab387?style=for-the-badge&labelColor=11111b&logo=shopify&logoColor=fab387" /></a>
 <a href="https://x.com/Topluau"><img src="https://img.shields.io/badge/X-@Topluau-a6e3a1?style=for-the-badge&labelColor=11111b&logo=x&logoColor=a6e3a1" /></a>
 <a href="https://discord.com/users/Topluau"><img src="https://img.shields.io/badge/Discord-Topluau-f9e2af?style=for-the-badge&labelColor=11111b&logo=discord&logoColor=f9e2af" /></a>
 
@@ -25,7 +26,7 @@
 
 ## <img src="https://api.iconify.design/lucide/user.svg?color=%2389b4fa" height="24" /> About
 
-I'm the founder and lead developer of **Bloxsupply**, **Lingucounter** and **Gavanor**, and I also make games like **The Last Noodle** and open-source Rust projects like **Ember IDE**, a code editor, and **Scrawl**, a collaborative whiteboard.
+I'm the founder and lead developer of **Bloxsupply**, **Lingucounter**, **Gavanor** and **4Everything**, and I also make games like **The Last Noodle** and open-source Rust projects like **Ember IDE**, a code editor, and **Scrawl**, a collaborative whiteboard.
 
 <br>
 
@@ -85,6 +86,17 @@ Founder and lead dev. Designs free concept websites for local businesses to prev
 <td valign="bottom">
 
 <a href="https://gavanor.vercel.app/"><img src="https://img.shields.io/badge/visit-gavanor.vercel.app-f9e2af?style=flat-square&labelColor=11111b" /></a>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+#### <img src="https://api.iconify.design/lucide/gem.svg?color=%23fab387" height="20" /> [4Everything](https://www.4everything.store/)
+
+Owner and founder. An online store for elevated jewelry, accessories and everyday essentials, with tracked worldwide shipping and 30-day returns.
+
+<a href="https://www.4everything.store/"><img src="https://img.shields.io/badge/shop-4everything.store-fab387?style=flat-square&labelColor=11111b" /></a>
 
 </td>
 </tr>
@@ -155,7 +167,7 @@ Open-source Roblox loading screen with smooth animations, blur effects, and easy
 
 <div align="center">
 
-**X** [@Topluau](https://x.com/Topluau) &nbsp;·&nbsp; **Discord** `Topluau` &nbsp;·&nbsp; **Web** [bloxsupply.net](https://bloxsupply.net) · [lingucounter.com](https://lingucounter.com)
+**X** [@Topluau](https://x.com/Topluau) &nbsp;·&nbsp; **Discord** `Topluau` &nbsp;·&nbsp; **Web** [bloxsupply.net](https://bloxsupply.net) · [lingucounter.com](https://lingucounter.com) · [4everything.store](https://www.4everything.store/)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:89b4fa,50:313244,100:11111b&height=110&section=footer" width="100%" />
 
